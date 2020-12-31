@@ -18,9 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="07_堆排序.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{3B6C393F-D359-43C8-8C70-15137E9F0753}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>

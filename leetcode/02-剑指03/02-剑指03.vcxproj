@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="41 数据流中的中位数.cpp" />
+    <ClCompile Include="19 正则表达式匹配.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{05A5E230-8515-4352-A2B0-BA95D4549FF6}</ProjectGuid>
